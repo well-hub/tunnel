@@ -1,5 +1,5 @@
 tunnel:f5a69335-4167-4df3-a27f-b1a5b142aa2f
-credentials-file:  argo.json
+credentials-file:f5a69335-4167-4df3-a27f-b1a5b142aa2f.json
 
 ingress:
   - hostname: app.jiawei800705.tk
