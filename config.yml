@@ -1,7 +1,7 @@
-tunnel:  ID
+tunnel:f5a69335-4167-4df3-a27f-b1a5b142aa2f
 credentials-file:  argo.json
 
 ingress:
-  - hostname: DOM
-    service: http://localhost:8080
+  - hostname: app.jiawei800705.tk
+    service: http://jia800.herokuapp.com
   - service: http_status:404
