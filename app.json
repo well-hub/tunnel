@@ -1,5 +1,5 @@
 {
-    "name": "v2argo",
+    "name": "tunnel",
     "description": "a CADDY test",
     "keywords": ["caddy"],
     "env": {
