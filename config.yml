@@ -1,7 +1,7 @@
-tunnel:f5a69335-4167-4df3-a27f-b1a5b142aa2f
-credentials-file:f5a69335-4167-4df3-a27f-b1a5b142aa2f.json
+tunnel:fb413372-568f-4019-9247-5b25c9c92927
+credentials-file:fb413372-568f-4019-9247-5b25c9c92927.json
 
 ingress:
-  - hostname: app.jiawei800705.tk
-    service: http://jia800.herokuapp.com
+  - hostname: jia.jiawei800705.tk
+    service: http://jw800705.herokuapp.com
   - service: http_status:404
