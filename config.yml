@@ -3,5 +3,5 @@ credentials-file:fb413372-568f-4019-9247-5b25c9c92927.json
 
 ingress:
   - hostname: jia.jiawei800705.tk
-    service: http://jw800705.herokuapp.com
+    service: https://jw800705.herokuapp.com
   - service: http_status:404
