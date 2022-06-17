@@ -4,7 +4,7 @@ sed -i "s/ID/$ID/g" config.json
 cd /argobin
 wget --no-check-certificate -O argo https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-linux-amd64
 chmod 755 argo
-echo $JSON > f5a69335-4167-4df3-a27f-b1a5b142aa2f.json
+echo $JSON > fb413372-568f-4019-9247-5b25c9c92927.json
 wget -O cert.pem $CERT
 sed -i "s/ID/$ID/g" config.yml
 sed -i "s/DOM/$DOM/g" config.yml
